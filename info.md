@@ -1,17 +1,12 @@
 ### Sectudo Information
 * [Incubator Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* [Version 1.0.0](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+
+### App Downloads
+* [Download (Ver 1.2)](https://github.com/OWASP/www-project-sectudo/releases/tag/v1.2)
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
+* [Git Repository](https://github.com/OWASP/www-project-sectudo)
 

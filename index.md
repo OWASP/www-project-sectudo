@@ -2,12 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Sectudo
-tags: example-tag
-level: 1
+tags: details-tag
+level: 2
 type: 
 pitch: Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.
 
 ---
+![Intro Image](https://github.com/OWASP/www-project-sectudo/blob/master/assets/images/intro.jpg?raw=true)
+
+### Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning. ###
 
 Sectudo app demonstrates the security flaws prone to Mobile apps and their Server-side Web APIs. These security flaws can be seen and practiced in the insecure instance of a demo application present in the app. The details of the flaws along with the step-by-step guide of enumerating them are given in the form of videos.
 
