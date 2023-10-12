@@ -12,19 +12,40 @@ pitch: Sectudo is a Mobile app that aims at imparting simplified Mobile Applicat
 
 ### Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning. ###
 
-**Sectudo** demonstrates the security flaws prone to Mobile apps and their Server-side Web APIs. These security flaws can be seen and practiced in the insecure instance of a demo application present in the app. 
-
-*The details of the flaws along with the step-by-step guide of enumerating them are given in the form of videos.*
+Sectudo app demonstrates the security flaws prone to Mobile apps and their Server-side Web APIs. These security flaws can be seen and practiced in the insecure instance of a demo application present in the app. The details of the flaws along with the step-by-step guide of enumerating them are given in the form of videos.
 
 Along with security flaws, Sectudo also aims to provide an understanding of its security controls. A separate secure instance of the demo application is present in it, with the necessary security measures in place. The security implementation can be studied by navigating through its different features.
 
-## What is inside Sectudo? ##
+**What is inside Sectudo?
 
-### Learning Modules:
-All the security flaws seen in Mobile Apps & APIs have been added as Learning module. Each module has notes on the security flaw, its exploit & mitigation technique. 
+**1. Insecure version:** Demo KYC Portal – A demo application with features like Add/View KYC, View Accounts, etc. They have different security flaws embedded in them.
+   
+**2. Secure version:** Demo KYC Portal – A secure version of the same demo application with similar features like Add/View KYC, View Accounts, etc. showcasing the security controls implemented in them.
+  
+**3. A Learning Guide:** Mobile Application Security – The learning guide is ideal for beginners to know about all the important application security topics related to the Mobile app. It focuses on highlighting the root cause of the flaws and their impact.
 
-### Exploits & Challenges:
-Exploit section has been added to explain in detail the steps to be followed to test any security flaw in the app. And there is a challenge with every security flaw for its practical understanding. An insecure demo KYC app has been added for the challenges. It is a live demo app, the credentials to access the demo app can be obtained from the home screen of the Sectudo app. 
 
-### Mitigation Techniques:
-A secure version of the demo KYC application having all the security controls is embedded in the app. It is reference in the mitigation section for your practical review. A detailed note on the recommendation is added for each security flaw.
+**Link to download the Live version: 
+
+**Credentials to Access the Demo Versions
+
+**Insecure Demo Instance
+
+Set 1:
+Username: skyrider1
+Password: myworld123
+
+Set 2:
+Username: skyrider2
+Password: myworld456
+
+
+**Secure Demo Instance
+
+Se1 1:
+Username: supcop1
+Password: secureworld123
+
+Set 2:
+Username: supcop2
+Password: secureworld456
