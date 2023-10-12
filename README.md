@@ -26,6 +26,8 @@ A secure version of the demo KYC application having all the security controls is
 
 * Download latest APK (v1.2) from the folder - "Release" section
 * Install the apk on your Android device
+* Install Docker : https://hub.docker.com/r/synsecteam/sectudo
+* Run docker image, and provide its URL in the Mobile app.
 * Browse through the learning modules. 
 * Visit the exploit section, go through the context and then “try exploit” given at the end of section. 
 * Refer to the credentials by clicking on the “key” icon on the home screen of the app. 
